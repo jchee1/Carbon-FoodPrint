@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/png" href="./src/images/logo - no text.png">
+        <title>
+            Carbon Foodprint
+        </title>
+        <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=yes' name='viewport' />
+        <!--     Fonts and icons     -->
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+        <!-- CSS Files from MaterialDesign -->
+        <link href="./src/css/material-kit.css" rel="stylesheet" />
+        <!--Internal CSS File-->
+        <link href="./src/demo/demo.css" rel = "stylesheet" />
+    </head>
+
+    <body class="index-page">
+        <nav class="navbar header fixed-top navbar-expand-lg" id="sectionsNav">
+          <div class="container">
+            <div class="navbar-translate">
+              <a class="navbar-brand" href="index.html">
+                <img class = "sway-electric-logo" src = "src/images/expandedlogo.png"/></a>
+           </div>
+            <div class="collapse navbar-collapse">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                      <a class="navtext" href="about.html">
+                        ABOUT
+                      </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+        <div class="hero">
+						<div class = "rect">
+            	<h2 class="title-text">Find out your Carbon Foodprint now!</h2>
+            </div>
+        </div>
+
+        <div class = "content-div" style = "top:400px">
+          <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600,800,900" rel="stylesheet" type="text/css">
+
+          <div class="progress" id="progress"></div>
+          <input name="textbox1" id="textbox1" value="0" type="text" style = "margin:35px"/>
+          <input name="textbox2" id="textbox2" value="0"type="text"/>  
+          <input name="buttonExecute" onclick="StartAnimation()" type="button" value="Execute"/>
+          
+        </div>
+        <!--{% block content %}
+        {% endblock %}-->
+            
+        <footer class = "footer" style = "top:1000px">
+          <a href = "about.html" class = "swaylogo">
+            <img src = "src/images/logowhite.png" class = "swaylogo"/>
+            <p class = "sway-foot-text">© 2020 Carbon Foodprint. All Rights Reserved.</p>
+          </a>
+        </footer>
+
+        <!--   Core JS Files   -->
+        <script src="https://raw.githubusercontent.com/kimmobrunfeldt/progressbar.js/master/dist/progressbar.js"></script>
+        <script src="src/demo/bar.js"></script>
+        <script src="src/demo/main.js"></script>
+        <script src="./src/js/core/jquery.min.js"></script>
+        <script src="./src/js/core/popper.min.js"></script>
+        <script src="./src/js/bootstrap-material-design.js"></script>
+    </body>
+</html>

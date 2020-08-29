@@ -1,0 +1,320 @@
+name,amount
+lamb,39.2
+beef,27.0
+cheese,13.5
+pork,12.1
+salmon farmed,11.9
+turkey,10.9
+chicken,6.9
+tuna canned,6.1
+eggs,4.9
+potatoes,0.4
+rice,2.7
+peanut butter,2.5
+nuts,2.3
+yogurt,2.2
+broccoli,2.0
+tofu,2.0
+beans dry,0.8
+milk 2%,1.9
+tomatoes,1.5
+beef ration-fed fresh,44.92
+lamb ration-fed frozen,24.89
+arctic char (fish) farmed filleted frozen,18.39
+beef pasture-fed frozen,16.46
+pepperoni frozen,13.06
+oysters farmed frozen,11.41
+tilapia (fish) farmed filleted frozen,10.55
+sea bass (fish) farmed filleted frozen,10.4
+cheese processed refrigerated,9.82
+cheese natural refrigerated,9.81
+lettuce greenhouse fresh,9.81
+powdered milk refrigerated,9.71
+silver carp (fish) farmed filleted frozen,9.54
+catfish farmed filleted frozen,9.34
+sausage processed frozen,9.34
+ham processed frozen,9.31
+orange juice processed frozen,7.97
+shrimp farmed frozen,7.05
+pork pasture access frozen,6.09
+flatfish frozen,5.97
+chicken broiler small-scale free-range,5.6
+pork full confinement frozen,5.45
+lobster norway frozen,5.37
+carp (fish) common farmed frozen,5.3
+mullet (fish) farmed frozen,5.3
+silver carp (fish) frozen,5.3
+tilapia (fish) farmed frozen,5.3
+cod (fish) atlantic frozen,5.25
+sea bass (fish) farmed frozen,5.23
+salmon (fish) atlantic farmed filleted frozen,5.05
+catfish (fish) farmed frozen,4.7
+shrimp or prawn frozen,4.57
+mashed potato flakes processed,4.51
+trout (fish) freshwater farmed filleted frozen,4.42
+shrimp or prawns malaysian farmed frozen,4.26
+tuna (fish) cooked for canning canned,4.07
+sugar refined cane processed,3.93
+peanut oil processed,3.89
+chicken broiler large-scale confinement,3.73
+almonds organic dry,3.56
+tuna (fish) filleted frozen,3.43
+potato chips processed,3.43
+flatfish filleted frozen,3.06
+sugar raw cane processed,3.01
+salmon atlantic farmed frozen,2.88
+malt whisky processed,2.73
+evaporated milk refrigerated,2.52
+coffee processed,2.51
+trout (fish) farmed frozen,2.51
+eggs large-scale confinement free-range,2.38
+rice white dry,2.35
+brown rice dry,2.16
+cereal breakfast toasted processed,2.16
+orange juice processed refrigerated,2.14
+herring (fish) frozen,2.09
+cereal whole wheat breakfast toasted processed,2.08
+whey natural dry refrigerated,2.03
+tuna (fish) skipjack or yellowfin frozen,1.97
+mackerel filleted frozen,1.92
+almonds dry,1.89
+eggs large-scale confinement commercial ration,1.85
+ice cream frozen,1.82
+shortening solid processed,1.8
+vegetable oil partially hydrogenated processed,1.79
+margarine processed,1.77
+cooking oil/salad oil processed,1.75
+soft drinks processed,1.72
+rapeseed oil processed,1.7
+canola oil processed,1.7
+coffee beans green dry,1.66
+pecans dry,1.61
+figs fresh,1.54
+cereal breakfast untoasted processed,1.54
+peanut butter processed,1.53
+soybean oil processed,1.48
+sunflower oil processed,1.48
+cereal whole wheat breakfast untoasted processed,1.46
+pasta (spaghetti macaroni etc.) processed,1.24
+herring (fish) filleted frozen,1.23
+butter refrigerated,1.17
+mackerel frozen,1.14
+cocoa butter processed,1.13
+fish industrial frozen,1.12
+pistachios dry,1.11
+pasta whole wheat (spaghetti macaroni etc.) processed,1.05
+yellow mustard,1.0
+beans common varieties dry,0.95
+garlic fresh,0.95
+lettuce romaine hearts fresh,0.92
+palm kernel oil processed,0.91
+yogurt refrigerated,0.9
+asparagus fresh,0.88
+sunflower seeds dry,0.88
+malted barley processed,0.87
+bread pita processed,0.84
+blueberries fresh,0.83
+bread wheat or whole wheat processed,0.83
+grapes fresh,0.83
+marinara sauce processed,0.83
+milk processed refrigerated,0.79
+cherries sweet fresh,0.78
+walnuts conventional dry,0.76
+blueberries organic fresh,0.73
+dough pizza processed,0.72
+soymilk processed,0.69
+soymilk organic processed,0.68
+flour all purpose processed,0.65
+chickpeas (garbanzo beans),0.64
+wine processed,0.64
+lima beans baby dry,0.63
+corn dry,0.6
+peanuts fresh,0.57
+black-eyed peas dry,0.56
+flour bread processed,0.56
+flour whole wheat processed,0.56
+soybeans organic and non dry,0.56
+wheat bran processed,0.56
+wheat germ processed,0.56
+barley organic winter dry,0.55
+beans organic dry,0.53
+lentils dry,0.53
+mussels farmed frozen,0.53
+flour pastry processed,0.53
+eggplant american style fresh,0.51
+prunes french variety fresh,0.5
+oat bran processed,0.49
+oatmeal rolled oat flakes processed,0.49
+rice bran dry,0.46
+pomegranates fresh,0.45
+dates deglet noor grade b ‘us choice’ fresh,0.44
+green beans fresh,0.44
+palm oil processed,0.44
+wine white medium processed,0.44
+wine white premium processed,0.44
+wine red new processed,0.43
+wine red premium processed,0.43
+corn organic dry,0.43
+rye organic dry,0.43
+sweet potatoes fresh,0.43
+beer processed,0.38
+broccoli fresh,0.36
+squash summer fresh,0.36
+corn sweet dry,0.35
+pears green bartlett fresh,0.34
+potatoes fresh,0.34
+spinach fresh,0.34
+corn syrup processed,0.33
+tomatoes organic fresh,0.33
+squash winter fresh,0.31
+oats dry,0.31
+cauliflower fresh,0.31
+barley malting dry,0.3
+onions fresh,0.08
+peas spring fresh,0.29
+blackberries fresh,0.28
+olives arbequena fresh,0.28
+sorghum dry,0.28
+bananas fresh,0.27
+lettuce leaf organic fresh,0.27
+onions red fresh,0.27
+raspberries fresh,0.27
+strawberries fresh,0.27
+artichokes fresh,0.26
+bell peppers fresh,0.26
+brussels sprouts fresh,0.26
+cottage cheese refrigerated,0.26
+wheat spring dry,0.26
+corn oil processed,0.25
+okra fresh,0.25
+rye dry,0.25
+cherries fresh,0.24
+apples fresh,0.23
+apricots fresh,0.23
+strawberries organic fresh,0.23
+tomatoes fresh,0.23
+nectarines fresh,0.22
+sour cream refrigerated,0.22
+peaches fresh,0.22
+plums fresh,0.22
+pomelos specialty fresh,0.22
+wheat winter dry,0.22
+mandarin oranges satsuma fresh,0.21
+boysenberries fresh,0.2
+cilantro fresh,0.2
+cocoa powder processed,0.2
+apples organic,0.19
+lettuce iceberg fresh,0.19
+olives manzanillo fresh,0.19
+dates deglet noor grade c ‘us choice’ fresh,0.18
+blood oranges fresh,0.17
+radishes daikon fresh,0.16
+guava tropical pink fresh,0.15
+parsley fresh,0.15
+cream whipped fluid refrigerated,0.14
+cantaloupe fresh,0.14
+cucumbers fresh,0.14
+melons fresh,0.14
+honeydew melon fresh,0.14
+watermelon fresh,0.14
+pears specialty fresh,0.14
+pumpkins fresh,0.14
+lettuce crisp head fresh,0.13
+oranges naval or valencias fresh,0.13
+bitter melon fresh,0.12
+cabbage fresh,0.12
+celery fresh,0.12
+carrots fresh,0.11
+chinese cabbage fresh,0.09
+eggplant asian style fresh,0.09
+lemons lisbon variety fresh,0.09
+lettuce loose-leaf fresh,0.08
+pineapple fresh,0.08
+mangos organic fresh,0.07
+lemongrass fresh,0.07
+tomatoes cherry fresh,0.07
+beets sugarbeets fresh,0.05
+sugarcane fresh,0.04
+mushrooms portabella or button fresh,0.0
+beef (bovine meat),68.8
+mutton & goat meat,64.2
+animal fats,40.1
+meat,35.9
+offals (internal organs entrails),35.9
+meat other,35.7
+fats animals raw,35.6
+coffee,10.1
+pig meat,7.9
+poultry meat (chicken turkey etc.),5.4
+cephalopods (squid octopus etc.),5.4
+crustaceans (crab lobster prawn etc.),5.4
+demersal fish,5.4
+fish seafood,5.4
+freshwater fish,5.4
+marine fish other,5.4
+pelagic fish,5.4
+olive oil,4.5
+olives,4.5
+sesame seeds,4.2
+sesame seed oil,4.2
+rice (milled equivalent),3.9
+barley,3.8
+beer,3.8
+pulses other,3.5
+cocoa beans,3.4
+palm oil,3.3
+pulses,3.3
+sunflower seed oil,3.3
+pimento,3.2
+vegetable oils,3.2
+rape and mustard oil,2.9
+rape and mustardseed,2.9
+pepper,2.5
+beverages fermented,2.4
+cream,2.4
+vegetables other,2.2
+coconut oil,2.1
+coconuts - incl copra,2.1
+soybeans,2.0
+tree-nuts,2.0
+pineapple,1.9
+tea,1.9
+milk - excluding butter,1.8
+butter ghee,1.8
+cereals - excluding beer,1.8
+cereals other,1.8
+oilcrops,1.8
+soyabean oil,1.8
+plantains,1.6
+spices,1.6
+spices other,1.6
+vegetables,1.6
+groundnuts (shelled eq),1.4
+bananas,1.4
+peas,1.2
+dates,1.1
+honey,1.0
+oats,1.0
+rye,1.0
+wheat,1.0
+wine,1.0
+fruits excluding wine,0.9
+fruits other,0.9
+groundnut oil,0.9
+beans,0.8
+grapefruit,0.8
+grapes,0.8
+apples,0.7
+citrus other,0.7
+maize,0.7
+lemons,0.6
+limes,0.6
+oranges mandarins,0.6
+onions,0.5
+maize germ oil,0.4
+starchy roots,0.4
+sugar & sweeteners,0.1
+sugar (raw equivalent),0.1
+burger veggie,1.0
+cappuccino large,0.236
+latte large,0.343
